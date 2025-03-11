@@ -1,15 +1,36 @@
 # Brydon Rebello
+Excel | SQL | Python
 
-### About me
+### About Me
 
-Data Analytics Professional, focusing on Python DataFrames and SQL Databases, as well as Microsoft Excel and Microsoft Power BI.
+Data Analytics Professional, focusing on Microsoft Excel, Python DataFrames and SQL Databases, as well as and Web Scraping.
 
-## Courses and Studies
-Over the last year I have studied various courses with Coursera, DataCamp, LinkedIn Learning, and Cisco Networking Academy.
+## Education
+
+**BA**, Bachelor of Arts, in Mathematics, University of Cape Town
+
+**PGCE**, Postgraduate Certificate in Education, in Further Education, University of Cape Town
 
 (...)
 
-Here is a partial list of the course I have completed:
+**Supply Chain Data Analyst Professional Certificate**, by Coursera, 2024
+
+**Machine Learning Statistical Foundations Professional Certificate**, by Wolfram, 2024
+
+(...)
+
+I am working towards the following qualification
+
+**PCAD**, Certified Associate Data Analyst with Python, Cisco Academy
+
+(...)
+
+## Courses and Studies
+I have studied various courses with Coursera, DataCamp, LinkedIn Learning, and Cisco Networking Academy.
+
+(...)
+
+Here is a partial list of the specific courses I have completed:
 
 
 In Python and SQL for Data Analytics,
@@ -31,6 +52,7 @@ In Microsoft Excel for Data Analytics, and Microsoft Power BI ,
 | --- |
 | Introduction to Excel |
 | Introduction to Power BI |
+| Introduction to Power Query |
 | Data Preparation in Excel |
 | Data Visualization in Excel |
 | Data Analysis in Excel |
@@ -45,37 +67,20 @@ In Microsoft Excel for Data Analytics, and Microsoft Power BI ,
 | Introduction to Machine Learning |
 | Mathematical Foundations for Machine Learning |
 
-## Resourses and Project
+## Resourses and Projects
+An Inventory Analysis of a Stationery Retailer (Portfolio Item).
+
+(...)
+
 I am currently working on the following projects:
 
 
-(1) An Analysis of the resale profitability in the BrickLink market.
+An Analysis of the resale profitability of LEGO parts and sets in the BrickLink market.
 
-(2) An Analysis of the broader LEGO compatible alternative brands market.
 
-(...)
-
-(3) A DataCo Supply Chain Analysis (Portfolio)
-
-(4) A Statso Inventory Analysis (Portfolio)
-
-## Education
-
-**BA**, Bachelor of Arts, in Mathematics, University of Cape Town
-
-**PGCE**, Postgraduate Certificate in Education, in Further Education, University of Cape Town
+An Analysis of the broader alternative LEGO compatible brands market, such as CaDA, COBI and more.
 
 (...)
-
-**Supply Chain Data Analyst Professional Certificate**, on Coursera, 2024
-
-**Machine Learning Statistical Foundations Professional Certificate**, by Wolfram, 2024
-
-(...)
-
-I am working towards the following qualification
-
-**PCAD**, Certified Associate Data Analyst with Python, Cisco Academy
 
 ## Experience
 
