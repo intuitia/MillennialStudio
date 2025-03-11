@@ -1,0 +1,5 @@
+## Research Questions
+
+> Which parts and colours are sold more on WeBrick than are available on BrickLink?
+
+> How do CaDA and COBI parts compare to LEGO parts?
